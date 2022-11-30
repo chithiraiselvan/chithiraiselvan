@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chithiraiselvan
+- 👋 Hi, I’m @selvan_cs
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning web compoents 
 - 📫 How to reach me https://twitter.com/subash_cs
